@@ -1,0 +1,8 @@
+Question:
+=========
+
+1. add two numbers.
+2. find circumference and area of circle.
+3. calculate total and percentage marks of 5 subjects.
+4. calculate reverse of a number.
+5. caculate simple interest.
